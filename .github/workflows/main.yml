@@ -9,7 +9,7 @@ on:
         required: false
         type: string
       mode:
-        description: '📦 حالت دانلود'
+        description: 'حالت دانلود'
         required: false
         default: 'zip'
         type: choice
