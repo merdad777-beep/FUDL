@@ -1,6 +1,0 @@
-# Downloaded list :
-
-- [bale](./bale)
-
----
-
