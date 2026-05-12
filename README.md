@@ -1,6 +1,7 @@
 **نصب اولیه:**
-1. Settings > Actions > General> Read and write permissions
-2. Actions > دکمه سبزه
+1. Fork
+2. Settings > Actions > General> Read and write permissions
+3. Actions > دکمه سبزه
 
 **نحوه استفاده:**
 
