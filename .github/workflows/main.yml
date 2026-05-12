@@ -1,17 +1,17 @@
 ---
-name: ⬇️  01- Down load URL
+name: ⬇️ Free URL Downloader
 
 on:
   workflow_dispatch:
     inputs:
       urls:
-        description: '🔗 لینک های دانلود (با فاصله جدا کنید)'
+        description: 'لینک دانلود'
         required: false
         type: string
       mode:
         description: '📦 حالت دانلود'
         required: false
-        default: 'normal'
+        default: 'zip'
         type: choice
         options:
           - normal
