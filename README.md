@@ -1,5 +1,5 @@
 **نصب اولیه:**
-1. Fork > Creat Fork
+1. Fork > Create Fork
 2. Settings > Actions > General > Read and write permissions
 3. Actions > دکمه سبزه (I understand my workflows, go ahead and enable them)
 
