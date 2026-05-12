@@ -11,7 +11,7 @@ on:
       mode:
         description: 'حالت دانلود'
         required: false
-        default: 'zip'
+        default: 'normal'
         type: choice
         options:
           - normal
