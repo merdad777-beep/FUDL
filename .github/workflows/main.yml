@@ -298,12 +298,6 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y aria2 zip curl bc
 
-      - name: AVASAM Downloader - https://avasam.ir
-        run: |
-          echo "🏷️  AVASAM - Your Download Solution"
-          echo "🌐 https://avasam.ir"
-          echo ""
-
       - name: Download files
         run: |
           MODE="${{ github.event.inputs.mode }}"
