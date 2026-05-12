@@ -1,5 +1,5 @@
 **نصب اولیه:**
-1. Fork
+1. Fork > Creat Fork
 2. Settings > Actions > General> Read and write permissions
 3. Actions > دکمه سبزه
 
